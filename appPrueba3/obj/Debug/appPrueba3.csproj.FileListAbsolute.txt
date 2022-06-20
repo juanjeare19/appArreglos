@@ -1,0 +1,7 @@
+D:\ProyectoC#\appPrueba3\appPrueba3\bin\Debug\appPrueba3.exe.config
+D:\ProyectoC#\appPrueba3\appPrueba3\bin\Debug\appPrueba3.exe
+D:\ProyectoC#\appPrueba3\appPrueba3\bin\Debug\appPrueba3.pdb
+D:\ProyectoC#\appPrueba3\appPrueba3\obj\Debug\appPrueba3.csproj.AssemblyReference.cache
+D:\ProyectoC#\appPrueba3\appPrueba3\obj\Debug\appPrueba3.csproj.CoreCompileInputs.cache
+D:\ProyectoC#\appPrueba3\appPrueba3\obj\Debug\appPrueba3.exe
+D:\ProyectoC#\appPrueba3\appPrueba3\obj\Debug\appPrueba3.pdb
